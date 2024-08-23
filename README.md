@@ -1,2 +1,2 @@
 Projek Git Saya
-Ini adalah projek berkaitan pembangunan aolikasi . Nilai projek ini berjumlah rm 5 juta.
+Ini adalah projek berkaitan pembangunan aplikasi . Nilai projek ini berjumlah rm 5 juta.
